@@ -1,0 +1,22 @@
+{
+  "name": "wbdv-sp21-01-chenwang-server-node",
+  "version": "1.0.0",
+  "description": "sample node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwang-neu/wbdv-sp21-01-chenwang-server-node.git"
+  },
+  "author": "Chen Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenwang-neu/wbdv-sp21-01-chenwang-server-node/issues"
+  },
+  "homepage": "https://github.com/chenwang-neu/wbdv-sp21-01-chenwang-server-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
